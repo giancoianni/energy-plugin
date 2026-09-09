@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# VS Code generated files
+.vscode/browse.vc.db
+
+# C/C++ generated database
+*.db
+
+# Compiled libraries
+*.so
