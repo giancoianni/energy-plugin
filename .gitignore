@@ -9,3 +9,5 @@ build/
 
 # Compiled libraries
 *.so
+
+.vscode/browse.vc.db*
